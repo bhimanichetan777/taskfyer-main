@@ -13,12 +13,16 @@ const port = process.env.PORT || 8000;
 const app = express();
 
 // middleware
-app.use(
-  cors({
-    origin: process.env.CLIENT_URL,
-    credentials: true,
-  })
-);
+const allowedOrigins = [
+  'https://your-frontend.vercel.app',
+  'http://localhost:3000' // For local development
+];
+
+app.use(cors({
+  origin: allowedOrigins,
+  credentials: true // If you're using cookies or authentication
+}));
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
