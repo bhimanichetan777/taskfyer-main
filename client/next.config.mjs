@@ -16,6 +16,7 @@ const nextConfig = {
       "cdn.lazyshop.com",
       "staticg.sportskeeda.com",
       "vsthemes.org",
+      "m.media-amazon.com", // <-- added this one
     ],
   },
 };
