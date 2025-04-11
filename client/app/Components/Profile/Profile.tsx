@@ -14,14 +14,16 @@ function Profile() {
         hover:bg-[#E6E6E6]/50 transition duration-300 ease-in-out cursor-pointer border-2 border-transparent hover:border-2 hover:border-white"
         onClick={openProfileModal}
       >
-        <div>
-          <Image
-            src={user?.photo}
-            alt="avatar"
-            width={70}
-            height={70}
-            className="rounded-full"
-          />
+          <div className="w-[80px] h-[80px] rounded-full overflow-hidden border-3 border-[#3aafae] shadow-[0_4px_25px_rgba(0,0,0,0.85)]">
+            <Image
+              src={user?.photo}
+              alt="avatar"
+              width={80}
+              height={80}
+              className="object-cover w-full h-full"
+            />
+
+
         </div>
         <div>
           <h1 className="flex flex-col text-xl">
