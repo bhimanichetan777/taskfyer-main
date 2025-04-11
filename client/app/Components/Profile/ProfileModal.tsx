@@ -44,15 +44,20 @@ function ProfileModal() {
 
         <div className="mt-4 relative flex justify-between">
           <div className="relative inline-block">
-            <Image
+          <Image
               src={photo}
               alt="profile"
               width={80}
               height={80}
-              className="rounded-full"
+              className="rounded-full object-cover w-[100px] h-[100px] border-3 border-[#3aafae] shadow-[0_4px_25px_rgba(0,0,0,0.85)]"
             />
-            
+
+
+            <div className="absolute bottom-0 right-1 shadow-sm">
+             
+            </div>
           </div>
+          
         </div>
         <div>
           <h1 className="text-lg font-bold">{name}</h1>
