@@ -16,7 +16,17 @@ const nextConfig = {
       "cdn.lazyshop.com",
       "staticg.sportskeeda.com",
       "vsthemes.org",
-      "m.media-amazon.com", // <-- added this one
+      "i0.wp.com",
+      "i.scdn.co",
+      "variety.com",
+      "m.media-amazon.com",
+      "upload.wikimedia.org",
+      "news.vocofm.com",
+      "photosly.in",
+      "photospic.com",
+      "photosbaba.com",
+      "images.pexels.com",
+      "is.zobj.net"
     ],
   },
 };
