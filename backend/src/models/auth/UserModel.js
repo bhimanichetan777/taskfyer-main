@@ -20,7 +20,6 @@ const profilePhotos = [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkjVzu3K0ORwignyN05PR2rWc6950Vcq4kg&s",
     "https://staticg.sportskeeda.com/editor/2022/05/11b98-16528121318872-1920.jpg?w=640",
     "https://vsthemes.org/uploads/posts/2017-09/1582033814_naruto_vsthemes_ru-30.webp",
-"https://w0.peakpx.com/wallpaper/384/549/HD-wallpaper-rose-blackpink-beauty-blackpink-blink-bts-cute-fashion-girl-rose.jpg:,
     // Newly added 8 images
     "https://i0.wp.com/news.vocofm.com/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-12-%E4%B8%8A%E5%8D%8811.36.32.png?fit=800%2C554&ssl=1",
     "https://i.pinimg.com/736x/71/62/9c/71629c075c537d608f4bbda8943201e8.jpg",
