@@ -26,7 +26,8 @@ const nextConfig = {
       "photospic.com",
       "photosbaba.com",
       "images.pexels.com",
-      "is.zobj.net"
+      "is.zobj.net",
+      "w0.peakpx.com" // <-- Added domain here
     ],
   },
 };
