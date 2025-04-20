@@ -19,18 +19,7 @@ const profilePhotos = [
     "https://cdn.lazyshop.com/files/9b0d8bde-34c0-460a-b131-e7a87b1e0543/other/9f2af6d1aac70338f940db94300766a6.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkjVzu3K0ORwignyN05PR2rWc6950Vcq4kg&s",
     "https://staticg.sportskeeda.com/editor/2022/05/11b98-16528121318872-1920.jpg?w=640",
-    "https://vsthemes.org/uploads/posts/2017-09/1582033814_naruto_vsthemes_ru-30.webp",
-    // Newly added 8 images
-    "https://i0.wp.com/news.vocofm.com/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-12-%E4%B8%8A%E5%8D%8811.36.32.png?fit=800%2C554&ssl=1",
-    "https://i.pinimg.com/736x/71/62/9c/71629c075c537d608f4bbda8943201e8.jpg",
-    "https://i.scdn.co/image/ab6761610000e5eb9e33dd3ae51452774a133e1f",
-    "https://variety.com/wp-content/uploads/2024/02/Lalisa-Manobal-headshot-credit-Vivi-Suthathip-Saepung-e1707758978642.jpg?w=1000&h=667&crop=1",
-    "https://m.media-amazon.com/images/M/MV5BZjA0MDgyYmItNzkzMC00OTM2LThlYzktMWMxZWU3ZGNkNDI3XkEyXkFqcGc@._V1_.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkXnULjA36OshkkdyekzuIHxyVPQqPfp5S-vVZo41fk3MO6LNYM_IH1pFqFmcT0DmEFY&usqp=CAU",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9655-1.jpg/1200px-Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9655-1.jpg",
-    "https://is.zobj.net/image-server/v1/images?r=GTqpgKA1lAhXMzmiA7wDB32mURJS3qQE5paYmekSm354va-C2npQOJry2dXnMIyaLqw4qMuDvh96jM7LWSo-Xe_kjJP4ofocuflGacGftGsC16ADO_TVtgSzMv_2jsLUPyuvi6lhVI6tiqCb0YAaJPtNMs6lhHjh6sd3uJBYq8zy7OE-ZuKsZapuvxQtzgrcha9udWeahs5ZhX2Q13ax_BenUI3hD6SqjbadbF4ttP4hwD9dKltRlaWMKCA",
 
-  // ✅ LAST IMAGE: 50% probability
   "https://i0.wp.com/news.vocofm.com/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-12-%E4%B8%8A%E5%8D%8811.36.32.png?fit=800%2C554&ssl=1",
   "https://i.pinimg.com/736x/71/62/9c/71629c075c537d608f4bbda8943201e8.jpg",
   "https://i.scdn.co/image/ab6761610000e5eb9e33dd3ae51452774a133e1f",
